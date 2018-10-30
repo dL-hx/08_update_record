@@ -337,5 +337,3 @@ Record.propTypes = {...};
     - https://github.com/hfpp2012/react-accounts-app/commit/96f815c24c44e9b4cea394ed87dabd61a624c62b
 
     - [![Edit 08_update(record)](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/j35mrk64v9)
-
-    - 
